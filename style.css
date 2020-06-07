@@ -1,0 +1,32 @@
+.img-fluid{
+    text-align: center !important;
+    margin-left: 650px;
+    color: black;
+    margin-top: 10px;
+    background-color: blue;
+}
+.h2{
+text-align: center;
+margin-top: 20px;
+font-size: 66px,!important;
+}
+.h3{
+text-align: center;
+}
+.h1{
+align-items: center;
+text-align: center;
+}
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
